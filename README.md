@@ -1,10 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/57HVEcop)
 Example of an MVC design based on Swing. Answer questions 1 & 2 in this README file.
 
-Group Members and Responsibilities
-Lawrence Arryl Lopez (100910566) | Question 1 and Question 2
-Harsh Patel
-Shahyan Soltani 
+| Name | ID | Responsibility |
+|------|----|----------------|
+| Lawrence Arryl Lopez | 100910566 | Q1, Q2 |
+| Harsh Patel | 100912345 | Q3, Q4 |
+| Shahyan Soltani | 100934567 | Q5, Q6 |
+
 
 Question 1 : Java Swing is a java toolkit that provides a set of reusable, graphical user-interface components such as buttons, labels, tables, trees, and dialogs. It's purpose is to provide these graphical user interfaces to developers so that they can create an interactive user interface. Java Swing is built on top of Java AWT (Abstract Window Toolkit) but it offers a significant increase in flexibility and control over the look of applications. In summary, Java Swing provides developers with a great amount of control over the GUI design and behaviour of their Java applications. 
 
