@@ -18,4 +18,8 @@ First examining how the example implements the MVC pattern, model.java in the pr
 
 However, the example does differ from the conventional MVC pattern that is described within the lectures in a few different ways. 
 
-To begin, the model is updated directly via the controller actions 
+To begin, the lectures describe the conventional MVC pattern as an observer pattern where the controller modifies the model in response to the user input, and then the model updates all the available views in order to reflect the changes. In the example code provided, the controller directly updates the registered views, which differs from the traditional MVC observer pattern.
+
+The model only stores data but does not notify the view about any changes in the data. 
+
+In summary, the example code provided implements the MVC pattern with regards to its structure but differs in its behaviour with regards to its behaviour. 
