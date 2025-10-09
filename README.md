@@ -12,6 +12,8 @@ Question 1 : Java Swing is a java toolkit that provides a set of reusable, graph
 
 Below is the UML Class diagram for the Swing Components used in the program
 
+![q1 image](SwingMVC/src/q1.png)
+
 Question 2 : Look through the example code in the GitHub repository and explain how this example implements the MVC pattern. How does it differ from the conventional MVC pattern described in the lectures?
 
 In the conventional MVC pattern described in the lectures, the models are the portions of a program that hold data and operations for achieving the computational goals of the program. The view portion provides a way to display a component and controllers receive and carry out commands from users. 
@@ -25,3 +27,7 @@ To begin, the lectures describe the conventional MVC pattern as an observer patt
 The model only stores data but does not notify the view about any changes in the data. 
 
 In summary, the example code provided implements the MVC pattern with regards to its structure but differs in its behaviour with regards to its behaviour. 
+
+
+### Question 4 Diagram
+![q4 image](SwingMVC/src/q4.png)
