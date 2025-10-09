@@ -1,5 +1,0 @@
-12345 Coffee 8.32
-67890 Muffin 2.50
-11111 Sandwich 6.75
-22222 Tea 1.99
-33333 Donut 1.25
